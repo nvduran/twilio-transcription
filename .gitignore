@@ -1,0 +1,6 @@
+/node_modules
+npm-debug.log
+.DS_Store
+.env
+/tools/sessionUpdaterMulticlass-LOCAL.js
+/tools/refreshTimesByCar-LOCAL.js
